@@ -27,10 +27,7 @@ function makeInt(n) {
 }
 
 function preserveDecimal(n) {
-}
-
-function preserveDecimal(n) {
-    return parseInt ('nonsense');
+    return parseInt (n);
 }
 
 1 + 80 // 81
