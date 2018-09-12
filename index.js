@@ -27,7 +27,7 @@ function makeInt(n) {
 }
 
 function preserveDecimal(NaN) {
-    return parseInt (isNan);
+    return parseInt (Nan);
 }
 
 1 + 80 // 81
